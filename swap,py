@@ -1,0 +1,7 @@
+x=(2023, 56, 3.11, 8, 22,8)
+print(x.count(8))
+print(x[3])
+print(x.index(8))
+print(sorted(x))
+print(min(x))
+print(max(x))
