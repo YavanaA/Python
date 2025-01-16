@@ -1,5 +1,6 @@
 price = 3
 while True:
+    
     calls = int(input("Enter teh number of calls : "))
     if calls < 0:
         print("invalid number of calls !!!!")
